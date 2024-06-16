@@ -1,6 +1,6 @@
 ![logo](https://github.com/510kirti/510kirti/blob/main/github%20banner%202.png)
 <h1 align="center">Hi 👋, I'm Kirti goel</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate CODER from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=510kirti&label=Profile%20views&color=0e75b6&style=flat" alt="510kirti" /> </p>
