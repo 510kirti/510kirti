@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kirti
 
-I’m a second-year B.Tech student passionate about exploring the vast world of technology.  
+I’m a third-year B.Tech student passionate about exploring the vast world of technology.  
 Currently pursuing my degree in **Information Technology** at **National Institute of Technology Kurukshetra**.  
 I’m enthusiastic about diving into the exciting realms of software development and engineering.
 
