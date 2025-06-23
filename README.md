@@ -7,6 +7,7 @@ I’m enthusiastic about diving into the exciting realms of software development
 ## 🌱 I’m currently learning:
 - Programming languages: **C, C++, Java**
 - Web development: **HTML, CSS, JavaScript, React.js**
+- Data Structures and Algorithms(DSA)
 
 ## 💞️ I’m looking to collaborate on:
 1. Opportunities to collaborate on interesting projects  
