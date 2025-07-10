@@ -22,4 +22,5 @@ I’m enthusiastic about diving into the exciting realms of software development
 Feel free to explore my repositories and reach out if you share similar interests or if you have any exciting opportunities to discuss.  
 Let’s code and innovate together! 🚀
 
-![](https://leetcard.jacoblin.cool/Kirti510?ext=heatmap)
+
+<!-- ![](https://leetcard.jacoblin.cool/Kirti510?ext=heatmap) -->
